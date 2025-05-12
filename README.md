@@ -31,5 +31,5 @@ This is a simple Recipe App made using **HTML**, **CSS**, and **JavaScript**. It
 
 ---
 
-## 📌 Folder Structure
+
 
